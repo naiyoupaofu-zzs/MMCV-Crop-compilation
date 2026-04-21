@@ -30,7 +30,7 @@
 这套流程适合：
 
 - Windows 环境
-- Anaconda 虚拟环境，例如 `yolo26`
+- Anaconda 虚拟环境，以我本地的环境 `yolo26`为例
 - 已安装 PyTorch 和 CUDA 运行时
 - 只需要 DyHead / DCN 相关算子
 - 不追求完整 `mmcv` 全家桶
